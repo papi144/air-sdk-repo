@@ -1,0 +1,24 @@
+﻿Chemical,Type,State,Available,RName,CName,DName,Density1,Density2,Density3,Mm,Sol,Mp,Bp,KH,color1,alpha1,color2,alpha2,color3,alpha3,color4,alpha4,friction,restitution,JPN,CHN,TW,KR,Solk,MOH,KOH,MH,KH,PTN
+1-Butene,Solid,Gas,1,C4H8,C4H8,C4H8,2.59,0.588,-185.4,56.11,4.8,-185.4,-6.3,0,0xF0F0F0,1,0xF0F0F0,1,0xF0F0F0,1,0xF0F0F0,1,0.4,0.3,1-ブテン,1-丁烯,1-丁烯,1-부텐,4.8,1,0,0,0,0
+Acetaldehyde,Solid,Liquid,1,CH3CHO,CH3CHO,CH3CHO,0.788,-121,44.05,100,-123.4,20.2,0.1,0,0xF0F0F0,1,0xF0F0F0,1,0xF0F0F0,1,0xF0F0F0,1,0.3,アセトアルデヒド,乙醛,乙醛,아세트알데히드,100,1,0,0,0,0,
+Acetylene,Solid,Gas,1,C2H2,C2H2,C2H2,0.906,-80.8,28.03,0.13,-80.8,-84,0.1,0,0xF0F0F0,1,0xF0F0F0,1,0xF0F0F0,1,0xF0F0F0,1,0.3,アセチレン,乙炔,乙炔,아세틸렌,0.13,1,0,0,0,0,
+Bromotrifluoromethane,Solid,Gas,1,CBrF3,CBrF3,CBrF3,1.57,-177,148.91,0.001,-177,-57.8,0.1,0,0xF0F0F0,1,0xF0F0F0,1,0xF0F0F0,1,0xF0F0F0,1,0.3,CBrF3,溴三氟甲烷,溴三氟甲烷,브로모트리플루오로메탄,0.001,1,0,0,0,0,
+Butane,Solid,Liquid,1,C4H10,C4H10,C4H10,2.71,1.963,0.573,58.12,6.1,-138.4,-0.5,0,0xF0F0F0,1,0xF0F0F0,1,0xF0F0F0,1,0xF0F0F0,1,0.4,0.3,ブタン,丁烷,丁烷,부탄,6.1,1,0,0,0,0
+Butyraldehyde,Solid,Liquid,1,C3H7CHO,C3H7CHO,C3H7CHO,0.817,-99,72.11,3.7,-96,75,0.1,0,0xF0F0F0,1,0xF0F0F0,1,0xF0F0F0,1,0xF0F0F0,1,0.3,酪酸アルデヒド,丁醛,丁醛,부틸알데히드,3.7,1,0,0,0,0,
+Chlorodifluoromethane,Solid,Gas,1,CHClF2,CHClF2,CHClF2,1.213,-160,86.47,0.3,-160,-40.8,0.1,0,0xF0F0F0,1,0xF0F0F0,1,0xF0F0F0,1,0xF0F0F0,1,0.3,CHClF2,氯二氟甲烷,氯二氟甲烷,클로로디플루오로메탄,0.3,1,0,0,0,0,
+Dichlorodifluoromethane,Solid,Gas,1,CCl2F2,CCl2F2,CCl2F2,1.311,-158,120.91,0.028,-158,-29.8,0.1,0,0xF0F0F0,1,0xF0F0F0,1,0xF0F0F0,1,0xF0F0F0,1,0.3,CCl2F2,二氯二氟甲烷,二氯二氟甲烷,디클로로디플루오로메탄,0.028,1,0,0,0,0,
+Dimethyl ether,Solid,Gas,1,CH3OCH3,CH3OCH3,CH3OCH3,2.109,0.66,-141.5,46.07,35.1,-141.5,-24.8,0,0xF0F0F0,1,0xF0F0F0,1,0xF0F0F0,1,0xF0F0F0,1,0.4,0.3,ジメチ儿エーテ儿,二甲醚,二甲醚,디메틸 에테르,35.1,1,0,0,0,0
+Dimethylamine,Solid,Gas,1,(CH3)2NH,(CH3)2NH,(CH3)2NH,0.68,-92.2,45.08,354,-92.2,7,0.1,0,0xF0F0F0,1,0xF0F0F0,1,0xF0F0F0,1,0xF0F0F0,1,0.3,ジメチ儿アミン,二甲胺,二甲胺,디메틸아민,354,1,1,0,0,0,
+Ethane,Solid,Liquid,1,C2H6,C2H6,C2H6,1.356,1.069,0.544,30.07,5.9,-183.3,-88.6,0,0xF0F0F0,1,0xF0F0F0,1,0xF0F0F0,1,0xF0F0F0,1,0.4,0.3,エタン,乙烷,乙烷,에탄,5.9,1,0,0,0,0
+Ethylamine,Solid,Liquid,1,C2H5NH2,C2H5NH2,C2H5NH2,0.689,-81,45.08,100,-81,16.6,0.1,0,0xF0F0F0,1,0xF0F0F0,1,0xF0F0F0,1,0xF0F0F0,1,0.3,エチルアミン,乙胺,乙胺,에틸아민,100,1,1,0,0,0,
+Ethylene,Solid,Gas,1,C2H4,C2H4,C2H4,1.178,0.568,-169.2,28.05,3.4,-169.4,-103.7,0,0xF0F0F0,1,0xF0F0F0,1,0xF0F0F0,1,0xF0F0F0,1,0.4,0.3,エチレン,乙烯,乙烯,에틸렌,3.4,1,0,0,0,0
+Formaldehyde,Solid,Gas,1,CH2O,CH2O,CH2O,0.815,-92,30.03,40,-92,-19.1,0.1,0,0xF0F0F0,1,0xF0F0F0,1,0xF0F0F0,1,0xF0F0F0,1,0.3,ホルムアルデヒド,甲醛,甲醛,포름알데히드,40,1,0,0,0,0,
+Methane,Solid,Liquid,1,CH4,CH4,CH4,0.657,0.554,0.415,16.04,3.5,-182.5,-161.5,0,0xF0F0F0,1,0xF0F0F0,1,0xF0F0F0,1,0xF0F0F0,1,0.4,0.3,メタン,甲烷,甲烷,메탄,3.5,1,0,0,0,0
+Methylamine,Solid,Gas,1,CH3NH2,CH3NH2,CH3NH2,0.699,-93.5,31.06,108,-93.5,-6.4,0.1,0,0xF0F0F0,1,0xF0F0F0,1,0xF0F0F0,1,0xF0F0F0,1,0.3,メチ儿アミン,甲胺,甲胺,메틸아민,108,1,1,0,0,0,
+Propane,Solid,Liquid,1,C3H8,C3H8,C3H8,2.01,1.549,0.493,44.09,6.5,-187.7,-42.1,0,0xF0F0F0,1,0xF0F0F0,1,0xF0F0F0,1,0xF0F0F0,1,0.4,0.3,プロパン,丙烷,丙烷,프로판,6.5,1,0,0,0,0
+Propionaldehyde,Solid,Liquid,1,C2H5CHO,C2H5CHO,C2H5CHO,0.866,-81,58.08,16,48,-80,0.1,0,0xF0F0F0,1,0xF0F0F0,1,0xF0F0F0,1,0xF0F0F0,1,0.3,プロピオンアルデヒド,丙醛,丙醛,프로피온알데히드,16,1,0,0,0,0,
+Propylene,Solid,Gas,1,C3H6,C3H6,C3H6,1.946,0.493,-185.2,42.08,4.4,-185.2,-47.6,0,0xF0F0F0,1,0xF0F0F0,1,0xF0F0F0,1,0xF0F0F0,1,0.4,0.3,プロパン,丙烯,丙烯,프로필렌,4.4,1,0,0,0,0
+Trichlorofluoromethane,Solid,Gas,1,CCl3F,CCl3F,CCl3F,1.485,-111,137.37,0.11,-111,23.7,0.1,0,0xF0F0F0,1,0xF0F0F0,1,0xF0F0F0,1,0xF0F0F0,1,0.3,CCl3F,三氯氟甲烷,三氯氟甲烷,트리클로로플루오로메탄,0.11,1,0,0,0,0,
+Trichlorotrifluoroethane,Solid,Liquid,1,C2Cl3F3,C2Cl3F3,C2Cl3F3,1.575,-35,187.38,0.05,-35,48,0.1,0,0xF0F0F0,1,0xF0F0F0,1,0xF0F0F0,1,0xF0F0F0,1,0.3,C2Cl3F3,三氯三氟乙烷,三氯三氟乙烷,트리클로로트리플루오로에탄,0.05,1,0,0,0,0,
+Triethylamine,Solid,Liquid,1,(C2H5)3N,(C2H5)3N,(C2H5)3N,0.728,-114.7,101.19,16.9,-114.7,89,0.1,0,0xF0F0F0,1,0xF0F0F0,1,0xF0F0F0,1,0xF0F0F0,1,0.3,トリエチルアミン,三乙胺,三乙胺,트리에틸아민,16.9,1,1,0,0,0,
+Trimethylamine,Solid,Gas,1,(CH3)3N,(CH3)3N,(CH3)3N,0.627,-117.2,59.11,89.3,-117.2,3,0.1,0,0xF0F0F0,1,0xF0F0F0,1,0xF0F0F0,1,0xF0F0F0,1,0.3,トリメチ儿アミン,三甲胺,三甲胺,트리메틸아민,89.3,1,1,0,0,0,

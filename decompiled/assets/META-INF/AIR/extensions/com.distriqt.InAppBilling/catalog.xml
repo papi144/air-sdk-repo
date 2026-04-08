@@ -1,0 +1,153 @@
+<?xml version="1.0" ?>
+<swc xmlns="http://www.adobe.com/flash/swccatalog/9">
+    <versions>
+        <swc version="1.2"/>
+        <compiler name="ActionScript Compiler" version="2.0.0" build="354193"/>
+    </versions>
+    <features>
+        <feature-script-deps/>
+    </features>
+    <libraries>
+        <library path="library.swf">
+            <script name="com/distriqt/extension/inappbilling/ApplicationReceipt" mod="1437636951000">
+                <def id="com.distriqt.extension.inappbilling:ApplicationReceipt"/>
+                <dep id="Boolean" type="s"/>
+                <dep id="String" type="s"/>
+                <dep id="com.distriqt.extension.inappbilling:ApplicationReceiptProperties" type="s"/>
+                <dep id="flash.events:IEventDispatcher" type="i"/>
+            </script>
+            <script name="com/distriqt/extension/inappbilling/ApplicationReceiptImpl" mod="1427260459000">
+                <def id="com.distriqt.extension.inappbilling:ApplicationReceiptImpl"/>
+                <dep id="Boolean" type="s"/>
+                <dep id="Error" type="e"/>
+                <dep id="Function" type="s"/>
+                <dep id="JSON" type="e"/>
+                <dep id="Object" type="e"/>
+                <dep id="String" type="s"/>
+                <dep id="com.distriqt.extension.inappbilling:ApplicationReceipt" type="i"/>
+                <dep id="com.distriqt.extension.inappbilling:ApplicationReceiptProperties" type="s"/>
+                <dep id="com.distriqt.extension.inappbilling.events:ApplicationReceiptEvent" type="e"/>
+                <dep id="flash.events:EventDispatcher" type="i"/>
+                <dep id="flash.events:StatusEvent" type="e"/>
+                <dep id="flash.external:ExtensionContext" type="s"/>
+            </script>
+            <script name="com/distriqt/extension/inappbilling/ApplicationReceiptProperties" mod="1427254727000">
+                <def id="com.distriqt.extension.inappbilling:ApplicationReceiptProperties"/>
+                <dep id="Boolean" type="s"/>
+                <dep id="Object" type="i"/>
+            </script>
+            <script name="com/distriqt/extension/inappbilling/DownloadsImpl" mod="1428987920000">
+                <def id="com.distriqt.extension.inappbilling:DownloadsImpl"/>
+                <dep id="Boolean" type="s"/>
+                <dep id="com.distriqt.extension.inappbilling:Purchase" type="s"/>
+                <dep id="com.distriqt.extension.inappbilling.purchases:Downloads" type="i"/>
+                <dep id="flash.events:EventDispatcher" type="i"/>
+                <dep id="flash.external:ExtensionContext" type="s"/>
+            </script>
+            <script name="com/distriqt/extension/inappbilling/InAppBilling" mod="1480559497000">
+                <def id="com.distriqt.extension.inappbilling:InAppBilling"/>
+                <dep id="Array" type="s"/>
+                <dep id="Boolean" type="s"/>
+                <dep id="Error" type="s"/>
+                <dep id="Function" type="s"/>
+                <dep id="JSON" type="e"/>
+                <dep id="Object" type="e"/>
+                <dep id="String" type="s"/>
+                <dep id="__AS3__.vec:Vector" type="e"/>
+                <dep id="com.distriqt.extension.inappbilling:ApplicationReceipt" type="s"/>
+                <dep id="com.distriqt.extension.inappbilling:ApplicationReceiptImpl" type="e"/>
+                <dep id="com.distriqt.extension.inappbilling:DownloadsImpl" type="e"/>
+                <dep id="com.distriqt.extension.inappbilling:InAppBillingServiceTypes" type="e"/>
+                <dep id="com.distriqt.extension.inappbilling:Product" type="e"/>
+                <dep id="com.distriqt.extension.inappbilling:Purchase" type="s"/>
+                <dep id="com.distriqt.extension.inappbilling:PurchaseRequest" type="s"/>
+                <dep id="com.distriqt.extension.inappbilling:Version" type="e"/>
+                <dep id="com.distriqt.extension.inappbilling.events:InAppBillingEvent" type="e"/>
+                <dep id="com.distriqt.extension.inappbilling.events:ProductViewEvent" type="e"/>
+                <dep id="com.distriqt.extension.inappbilling.events:PurchaseEvent" type="e"/>
+                <dep id="com.distriqt.extension.inappbilling.purchases:Downloads" type="s"/>
+                <dep id="flash.events:ErrorEvent" type="e"/>
+                <dep id="flash.events:Event" type="s"/>
+                <dep id="flash.events:EventDispatcher" type="i"/>
+                <dep id="flash.events:StatusEvent" type="e"/>
+                <dep id="flash.external:ExtensionContext" type="s"/>
+                <dep id="int" type="s"/>
+                <dep id="trace" type="e"/>
+            </script>
+            <script name="com/distriqt/extension/inappbilling/InAppBillingServiceTypes" mod="1366073282000">
+                <def id="com.distriqt.extension.inappbilling:InAppBillingServiceTypes"/>
+                <dep id="Object" type="i"/>
+                <dep id="String" type="s"/>
+            </script>
+            <script name="com/distriqt/extension/inappbilling/Product" mod="1427338844000">
+                <def id="com.distriqt.extension.inappbilling:Product"/>
+                <dep id="Number" type="s"/>
+                <dep id="Object" type="i"/>
+                <dep id="String" type="s"/>
+            </script>
+            <script name="com/distriqt/extension/inappbilling/Purchase" mod="1474252260000">
+                <def id="com.distriqt.extension.inappbilling:Purchase"/>
+                <dep id="Date" type="s"/>
+                <dep id="Error" type="s"/>
+                <dep id="Number" type="s"/>
+                <dep id="Object" type="i"/>
+                <dep id="String" type="s"/>
+                <dep id="decodeURIComponent" type="e"/>
+                <dep id="int" type="s"/>
+                <dep id="trace" type="e"/>
+            </script>
+            <script name="com/distriqt/extension/inappbilling/PurchaseRequest" mod="1427185666000">
+                <def id="com.distriqt.extension.inappbilling:PurchaseRequest"/>
+                <dep id="Object" type="i"/>
+                <dep id="String" type="s"/>
+                <dep id="int" type="s"/>
+            </script>
+            <script name="com/distriqt/extension/inappbilling/Version" mod="1481861203000">
+                <def id="com.distriqt.extension.inappbilling:Version"/>
+                <dep id="Object" type="i"/>
+                <dep id="String" type="s"/>
+            </script>
+            <script name="com/distriqt/extension/inappbilling/events/ApplicationReceiptEvent" mod="1437636367000">
+                <def id="com.distriqt.extension.inappbilling.events:ApplicationReceiptEvent"/>
+                <dep id="Boolean" type="s"/>
+                <dep id="String" type="s"/>
+                <dep id="flash.events:Event" type="i"/>
+            </script>
+            <script name="com/distriqt/extension/inappbilling/events/GenericEvent" mod="1394158280000">
+                <def id="com.distriqt.extension.inappbilling.events:GenericEvent"/>
+                <dep id="Boolean" type="s"/>
+                <dep id="String" type="s"/>
+                <dep id="flash.events:Event" type="i"/>
+            </script>
+            <script name="com/distriqt/extension/inappbilling/events/InAppBillingEvent" mod="1474251008000">
+                <def id="com.distriqt.extension.inappbilling.events:InAppBillingEvent"/>
+                <dep id="Boolean" type="s"/>
+                <dep id="String" type="s"/>
+                <dep id="flash.events:Event" type="i"/>
+            </script>
+            <script name="com/distriqt/extension/inappbilling/events/ProductViewEvent" mod="1437637771000">
+                <def id="com.distriqt.extension.inappbilling.events:ProductViewEvent"/>
+                <dep id="Boolean" type="s"/>
+                <dep id="String" type="s"/>
+                <dep id="flash.events:Event" type="i"/>
+            </script>
+            <script name="com/distriqt/extension/inappbilling/events/PurchaseEvent" mod="1474263138000">
+                <def id="com.distriqt.extension.inappbilling.events:PurchaseEvent"/>
+                <dep id="Boolean" type="s"/>
+                <dep id="String" type="s"/>
+                <dep id="__AS3__.vec:Vector" type="s"/>
+                <dep id="com.distriqt.extension.inappbilling:Purchase" type="s"/>
+                <dep id="flash.events:Event" type="i"/>
+            </script>
+            <script name="com/distriqt/extension/inappbilling/purchases/Downloads" mod="1437637801000">
+                <def id="com.distriqt.extension.inappbilling.purchases:Downloads"/>
+                <dep id="Boolean" type="s"/>
+                <dep id="com.distriqt.extension.inappbilling:Purchase" type="s"/>
+                <dep id="flash.events:IEventDispatcher" type="i"/>
+            </script>
+            <digests>
+                <digest type="SHA-256" signed="false" value="03e6493ec9c0cd1d3f943ab233f2ac199ccf6d579d1df4f18e05cd3d15977aeb"/>
+            </digests>
+        </library>
+    </libraries>
+</swc>

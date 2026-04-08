@@ -1,0 +1,277 @@
+Signature-Version: 1.0
+Created-By: 25.0.1 (Microsoft)
+SHA-384-Digest-Manifest: rIPwk0C3UieAbHiLhXEz5QA5ZIMoKcxeT4+7mpR09HGYmOZ
+ Wj1l81B5/EgpHEO5f
+SHA-384-Digest-Manifest-Main-Attributes: xw53SgqjWH1zSWW76uwO1oXKwlGlcuz
+ HRSLOPIYVczeAiXeDaAtqXShadpJJX5EQ
+
+Name: assets/CSV/update_gas.py
+SHA-384-Digest: Sw58AEaFNrfpceBkVfllc1F8Ku4gZorNbZwMd+2xEjtGGgSng+VoXJnL
+ i0dW4/jO
+
+Name: assets/Default-Landscape-1366h.png
+SHA-384-Digest: mx8lMIAEDnJ1fGmAs6kEGbSsT39fD7wTbK8XVX4G09vakGtHhcpWp1sH
+ VuNml+Mv
+
+Name: assets/META-INF/AIR/extensions/com.distriqt.InAppBilling/META-INF/
+ ANE/Android-ARM/platform.xml
+SHA-384-Digest: X03fv4/ASI+NTr8K1nbuB+Gz4Dg2p7Urht4MDIQSxgqQ8bkYt+vde4yI
+ ThetqGXC
+
+Name: assets/CSV/gases_inorganic.csv
+SHA-384-Digest: sdFMFh/8EqaelIxz5KsCow71ADEXrujCBfU0ltPSco9LxyrjfX1ZlqXx
+ vDsBtpm0
+
+Name: assets/CSV/add_reactions_real.py
+SHA-384-Digest: oSlpDb7+I6jD0MjjteAcJQDawwu1yzLUmi8ijIja1MwcuQ8Oe3Toi7e9
+ se1oczbP
+
+Name: assets/CSV/odb.csv
+SHA-384-Digest: EI+nAC8Oxzu3SZFaY8rEnuu6iGOE9gGH71+kYOmDf+7reF+HMoDfNElU
+ z9SNqG1t
+
+Name: res/drawable-xxhdpi/icon.png
+SHA-384-Digest: nw4emcXoLGlFSgpeFws29ubzsb0WSavCPP+g8J1zDjudQmQiIrBdiSar
+ 5A2ejO1t
+
+Name: res/raw/rgba8888
+SHA-384-Digest: nIifuy8bxEXz0q5IbRyTzPxlgYwEIod1g7r2dwkFPOsLAKKvZyj2gKZe
+ maA7akaF
+
+Name: res/drawable-xhdpi/ouya_icon.png
+SHA-384-Digest: HzjuLCdvEDgCLQ0GPQQ+J+/ztLwnfvCItUXrmkkjLOSGw/adQJoW2rYL
+ Y3rY6iv3
+
+Name: res/raw/debuginfo
+SHA-384-Digest: FkKuiyBQZyTnw9Lqtf68ZHcbXp+NaytSljWNj0YK6CgYKjXzdm7kOWAu
+ eiR3JAwY
+
+Name: res/layout/expandable_chooser_row.xml
+SHA-384-Digest: 1QwrKTWxKHoYmHmaY6RRHdbWKkhW/jS4ffHC2/BSnEIql9R59G4QcYT7
+ msSzx7tw
+
+Name: lib/armeabi-v7a/libCore.so
+SHA-384-Digest: nL7lW2CJnaal0J8jtze8P5H7cACIlJe9cMUjeOuf/GC7v0Oi10pdlzb7
+ rvhmBjHy
+
+Name: lib/armeabi-v7a/libstagefright_froyo.so
+SHA-384-Digest: XTsf9eX3YjCporg3bC8UarwPTdSUHuJ/UYS9SCtLXY3So3z2zpKWpRnJ
+ 1L9cg8mP
+
+Name: assets/CSV/add_formulas_to_cdb.py
+SHA-384-Digest: NUyMawkdq3aX70tV/BbgLvA3dnrIPRxqGCELy8i9OTo68LNXNJ8snlPb
+ TdKtMeKA
+
+Name: assets/CSV/odb 2.csv
+SHA-384-Digest: HgSm5HN4cZhKSgl/H63MMPNR8KBZW9rjKsdbtqXKNCScJXkgmarSNRtj
+ c3E4V97j
+
+Name: res/raw/adobelogo.gif
+SHA-384-Digest: My8jR+BlJXlVGgq+V4qOdLNmESuCyo9SzN5OMRl4cgpV2DIqJhUhyzFV
+ LRbkYpIa
+
+Name: assets/CSV/rdb.csv
+SHA-384-Digest: hSpBHtqSi+oeYY8qPBSgJSSCKyHromdoRfxEFlI+hboStYd1JjQb9aOW
+ s4hU0Ac/
+
+Name: assets/25az_loading.bin
+SHA-384-Digest: ALIS+VOcXMQe8ob7i2nfWqCAoFa08OJ4eOqR1kj9xHzmfuI9DbpyiAe2
+ 7K6XBHR8
+
+Name: res/raw/icon.jpg
+SHA-384-Digest: JDDIn4JhmVeZwpctHQmHhDA5NmeWot1GUikS01ZTIha83UqLXAanImy1
+ WtNMtY2C
+
+Name: lib/armeabi-v7a/libysshared.so
+SHA-384-Digest: coR4lKyjrtVxVAJAbk3xAYBvhIucgnwwz2RNPLnI0pCfp1lZH9PnZjCi
+ uZtfRLa9
+
+Name: res/layout/expandable_multiple_chooser_row.xml
+SHA-384-Digest: e0WOAobVB6sH9Cna9v43FOIcj2madh1/W6S+dGJNhrZ+mR5CF1xWrtRG
+ I1a/jZQ9
+
+Name: res/drawable-xxxhdpi/icon.png
+SHA-384-Digest: n6XGMH0HxPkLGUuseNnMA4vWDdcb8ZFvJWc7M1zvgqJUFNGwGlSZawKD
+ PQhk/s6i
+
+Name: assets/CSV/transform_to_symbols.py
+SHA-384-Digest: 6ndYOdnyLa4dlmgGjkLmaQZNpS2nEUY/LZ54YhmJ+HKeKMv4D/JRAPn4
+ 18UGaTOM
+
+Name: assets/CSV/ordb.numbers
+SHA-384-Digest: mq7yNujnIrA4Bz5or1BCjMkx5CqoVTlShSiVPuzRAxndk94Ie0UsFV3v
+ SIkQwUsy
+
+Name: assets/CSV/gases_organic.csv
+SHA-384-Digest: fAFsO8JjtSRJwfkhfARPA4jS0p3Qn5o8rYh4VLMrI8guQTX3DwVkvcxb
+ ZE2gpUWQ
+
+Name: assets/adobeair.vch
+SHA-384-Digest: ABVlYcZxIAAbE+oZLf48aNV7LfPo3g45VZVdGq3623caHHp+rIm/bSGK
+ hQFwmULW
+
+Name: assets/META-INF/AIR/extensions/com.distriqt.InAppBilling/library.s
+ wf
+SHA-384-Digest: yfheAjAg5TycSD3gcXCG9wdjPgT8VqDKrUCrkCkBy0oGtkWa8YeZmRVv
+ /E8Sp2NX
+
+Name: res/drawable-mdpi/icon.png
+SHA-384-Digest: zI8UeEae1v69H52/DLL0ucP+lVrRYgR/qWFqWCSIYoK0NhhWK2TqjvUi
+ s2iyBSGh
+
+Name: res/drawable-ldpi/icon.png
+SHA-384-Digest: VVIWYxXg+F7gkch87JpPT/7EVZSsz/IQUTWETNqTdP7XYInjC12Xgf6n
+ cN8m6e5d
+
+Name: assets/META-INF/AIR/application.xml
+SHA-384-Digest: cs2mqHlFOmfl7JwdL9oYFiMxLbaB4Uxq4FNpov9SIG4LyTy0QukV/blJ
+ 4W3TmmGr
+
+Name: resources.arsc
+SHA-384-Digest: gupwB2+JnMeG+x1fcaMSMImQ7o4U/juuXsgFJOhagpl/3R5zVDYbxOAt
+ 3g1p1xY8
+
+Name: assets/25az.bin
+SHA-384-Digest: tTxZAL7QPm7EfkOYDkV98bwTJlBLzI/RYuvOKDPFrZo+E41PdRlZ6T9K
+ zkGARC8L
+
+Name: assets/META-INF/AIR/extensions/com.distriqt.InAppBilling/META-INF/
+ ANE/extension.xml
+SHA-384-Digest: yg9abo5mKn28LLQ3s8OgoPDggXnlR2DlqFdNVgAmiS9oIeZCTEgHpsoB
+ cYtQCW4X
+
+Name: AndroidManifest.xml
+SHA-384-Digest: Bl2SeVNuY4CrTj4ZVvcQi4hBZH1NLd9Mzhzfda/cql2xVBC6TWupRKcI
+ V1coz9jz
+
+Name: res/layout/multiple_file_selection_panel.xml
+SHA-384-Digest: e61RDW5IwnOInbJn6Ru/gU6xmJjkou5mZXkZPezvUAbUTa030NxDjFKX
+ Nk8KvLw+
+
+Name: assets/CSV/update_gas_groups.py
+SHA-384-Digest: WyNwUZFKw5YT8raKCnjG58WK8GzTlJO9F00uxJ5cJJnBWWoXqXMW1LOz
+ ryFtaL5x
+
+Name: assets/Default-Landscape-1366h@2x.png
+SHA-384-Digest: yLnL6/H84jH4A0RR8rWcySQ71jPPj1vRFmFYGRrpCIp8HQU/77vw6URu
+ Xv9Ds6ZB
+
+Name: assets/META-INF/AIR/extensions/com.distriqt.InAppBilling/META-INF/
+ ANE/Android-ARM/distriqt-extension-inappbilling-res/values/values.xml
+SHA-384-Digest: P7fqU9Lmw+8v++r7gNIwE1DwA7Wms08PDN+GwdSt7HrAR6Kt0UOZHP+s
+ kBxk5IqD
+
+Name: assets/CSV/cdb.csv
+SHA-384-Digest: XoI/E3Xk3+cDRwnVIqLQpkSvktqQYAW4VH4IgNZiqCAIPyR/GYj8b7iv
+ Cj4huPKS
+
+Name: assets/CSV/cdb.numbers
+SHA-384-Digest: ZbxeGTRAIO5itkMdNC0L8rP8kaq0AY55VtP7MMb0lE40BQI972PSUfXt
+ hMfuAjIc
+
+Name: assets/META-INF/AIR/extensions/com.distriqt.InAppBilling/META-INF/
+ ANE/Android-ARM/library.swf
+SHA-384-Digest: hnyPLDICZhlZUACmhRDtupvW4eimUyqntKUcMgq/0V4pewUUoQdSM4za
+ 3xGGW/xE
+
+Name: lib/armeabi-v7a/libstlport_shared.so
+SHA-384-Digest: Wr70QTlQVc3PfesA900JdAjf9ZcFzaJzvDtyDdExR2Zg8lq3uPe1eREm
+ vdaGhpqX
+
+Name: res/drawable-xhdpi/icon.png
+SHA-384-Digest: DEqY5PewBzeV713b1ammuqI55wf3NSdT862AlqeE26WVF52/MvQXIvs/
+ nuiF5Xv6
+
+Name: res/raw/startga.html
+SHA-384-Digest: XyrLVa49mvm48SZQ60u0tpONr0BNZtNtexRiM4BbfnUIC36eA9t3MBn+
+ 7vgsJzf6
+
+Name: res/drawable-hdpi/icon.png
+SHA-384-Digest: BYY7+MYXsds0DuWJBGVZTY1zpRA/kGesIE8grno6+wazM8anYNvlLTq9
+ yDcZPgyK
+
+Name: lib/armeabi-v7a/libstagefright_honeycomb.so
+SHA-384-Digest: kA2cAQI6LncXJ1jEzV+WMbY5zHmKDHSVp1LpTVN7eRQYIdub3ucWXkY+
+ RnbAPNR5
+
+Name: assets/iSFeN
+SHA-384-Digest: Nd9+VC3sZr3nfmacfW72qgvgpwPj2909Mj8N3q4fqK/iXenkjFar/phR
+ JojUynG3
+
+Name: res/layout/ssl_certificate_warning.xml
+SHA-384-Digest: hmr6GRIzElOZ6Bd0OtDREbS5sGacPnQO5lpqz+kbO8ZmW/TW/weuVv+M
+ CUTEVbWV
+
+Name: assets/Default-414w-736h@3x.png
+SHA-384-Digest: eKZlEs51aw+etoYmSvydfJRTAjvbNo1oVe+DYU020wfvo7kfmHBxnvfc
+ AJF+0RBV
+
+Name: assets/Chemist.swf
+SHA-384-Digest: qHhKjkAbwmQjU88H3rsck1X9cuSIR3LDOTzCtOVQzFMYsV17yUsDCoUr
+ CT9F/zi2
+
+Name: assets/cloudLabDb.txt
+SHA-384-Digest: umpmrjaT+fjvDPK1NQVwnFEZNbQhW5Nu6sEQq1aJPV09Lg6Ysj2Z7rgX
+ md0vAHVH
+
+Name: assets/CSV/cdb-free.csv
+SHA-384-Digest: deLonKho4BpWB7asWzMc+Ooqf71C9J+YxzAAEg0URH/AnYmdx7u6M0o5
+ HLUCG5ef
+
+Name: res/layout/main.xml
+SHA-384-Digest: 6ve60ChXXvz2c/G3EMdCt2/vfCZUdR/5sTBySqb/nMxv+ocm/GTWLGY9
+ 5VlYmo+b
+
+Name: assets/Default-LandscapeRight@2x.png
+SHA-384-Digest: tq8vEcoNPfnBZa+j0c+iicZYLsBBSBQpl29pqqmK8FfQly835YzHYAop
+ q5JHgqCW
+
+Name: assets/Default-Landscape@2x~ipad.png
+SHA-384-Digest: 4h099VerQflajHXDTIOjhTQwnxOhCe9SjVhZtXwkdRC/fwAfspJtATtq
+ xasKHrS6
+
+Name: assets/CSV/fix_organic_gas_state.py
+SHA-384-Digest: R4MP4D23YCq3aFEHH+AgddfzD4zN1qXBitDZQ8SoSk/NgaNrdoGbD8NE
+ 1N72aXvY
+
+Name: res/drawable/air_72px_mobile_eula.png
+SHA-384-Digest: jINORSCOex93uj98ymwV8TzSD5Oyo4FSSXi7blK6Vuasr1SCXgNB9gvZ
+ foYzOQjb
+
+Name: res/drawable/mp_warning_32x32_n.png
+SHA-384-Digest: oXUdDLp5TzGJQdIFgpHKwjdWgECnCaFpB118WsXz8REWLZfXb/aMsWDx
+ fhLtC4pT
+
+Name: res/drawable-hdpi/home.png
+SHA-384-Digest: 1saYP5RJCFELWQ94rcNbBeQsaiJPeQpvNSMUl8OD8sDDVsV3iwtnV55/
+ wP2Y+ba3
+
+Name: assets/CSV/odb.numbers
+SHA-384-Digest: kh3qr6IGtq83YPVjDXdh5UbBuN83LuPrMUvkgQ2MLavoEjTtgiDqAs3o
+ b4/7JQ1a
+
+Name: assets/META-INF/AIR/extensions/com.distriqt.InAppBilling/catalog.x
+ ml
+SHA-384-Digest: hHNMCCRN3Pc2qq802hWgZnwMf2ZuXH9SXWFRBJN4EizVr088NPRcLULC
+ KQ58Fdw5
+
+Name: assets/CSV/ordb.csv
+SHA-384-Digest: +wksxbU2uklug1w1fpLLLExFY9BQrZTX5UfPdnrKMdE7Y6Y7b1XBy0th
+ gsAGfF+s
+
+Name: assets/CSV/cdb-free.numbers
+SHA-384-Digest: mIVZIRzXxMlqHelLDmNW/J0w56QjdY1LUO/lVOJaGEU5JJzg0XVoWeG7
+ H2UOqHZd
+
+Name: classes.dex
+SHA-384-Digest: yYM4CggNPw+Z11tnGVMleq+p7kqeoFlgKby3TRYZGb9KlFFG8HGE/1wB
+ ynxo9Ts3
+
+Name: assets/Default-568h@2x.png
+SHA-384-Digest: ZOeby+UQY4jycUCiBZvwcrnjrT7zBwh+WmuCh5yijIyUVE4p60xLz1dZ
+ cK7084KG
+
+Name: assets/CSV/rdb.numbers
+SHA-384-Digest: yyNAV+M+mArCEzH5u3H2etxcqgQs6K5rmXwESmWDi8/9CjFvASDFLewm
+ sxHuTb41
+

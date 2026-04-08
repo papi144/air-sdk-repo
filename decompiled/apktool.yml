@@ -1,0 +1,26 @@
+version: 2.9.3
+apkFileName: Chlab_gases_fixed.apk
+isFrameworkApk: false
+usesFramework:
+  ids:
+  - 1
+  tag: null
+sdkInfo:
+  minSdkVersion: 14
+  targetSdkVersion: 21
+packageInfo:
+  forcedPackageId: 127
+  renameManifestPackage: null
+versionInfo:
+  versionCode: 5000003
+  versionName: 5.0.3
+resourcesAreCompressed: false
+sharedLibrary: false
+sparseResources: false
+doNotCompress:
+- png
+- res/raw/rgba8888
+- res/raw/debuginfo
+- gif
+- assets/META-INF/AIR/extensions/com.distriqt.InAppBilling/library.swf
+- assets/META-INF/AIR/extensions/com.distriqt.InAppBilling/META-INF/ANE/Android-ARM/library.swf
